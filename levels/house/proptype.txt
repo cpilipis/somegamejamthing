@@ -1,0 +1,4 @@
+milk.png
+chairandtable.png
+bowl.png
+cereal.png
