@@ -1,0 +1,3 @@
+# Crappy Lua Milk Game
+
+This is a platformer game I made for a minimalist game jam. I produced this game using the Love2D framework for Lua. You play as a man who must leave his house to go pick up some milk and cereal. There are wild sheep outside who aim to stop you. You do damage to them by jumping on their head, and they do damage to you by jumping on your head. Honestly, not very good in general. I didn't use all the allotted time I had on this one, I didn't package it neatly for other people to go download it, and it got dead last in the game jam.  Perhaps I'll revisit it someday and at least produce a package for this thing so that people can more easily go play it. 
